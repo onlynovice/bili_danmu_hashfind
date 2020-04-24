@@ -1,9 +1,9 @@
 #include <iostream>
 #include <cstring>
+
 using namespace std;
 
 unsigned long Crc32Table[256];
-char goal[15];
 
 int length(int num) {
     int len = 1;
