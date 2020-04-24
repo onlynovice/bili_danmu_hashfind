@@ -50,5 +50,6 @@ int main() {
     cout<<"输入用户uid:\n";
     cin>>n;
     cout<<"用户 uid:"<<n<<" 的hashID为:\n"<<hex<<GetCrc32Str(n)<<endl;
+    //system("pause");
     return 0;
 }
