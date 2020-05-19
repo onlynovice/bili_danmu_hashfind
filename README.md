@@ -12,6 +12,6 @@ hash_to_uid_ver0.2.exe 基于 cygwin编译，只可在windows环境运行
 
 **大佬做的效率比较高的封装好的版本（效率大约比我写的高5倍）：**
 
-**链接：https://pan.baidu.com/s/1WlyN6yuS0mYPK5ltvLu1DA **
+**链接：https://pan.baidu.com/s/1WlyN6yuS0mYPK5ltvLu1DA**
 
 **提取码：1z97**
